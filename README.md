@@ -17,7 +17,7 @@ From Kaggle, I used and manipulated a public database of makeup (foundation) pro
 
 HSV stands for Hue - Saturation - Value. 
 
-Hue is represented with an angle (0 to 360 degrees), with the following correspondants: 
+**Hue** is represented with an angle (0 to 360 degrees), with the following correspondants: 
 
 0-60	Red
 60-120	Yellow
@@ -27,6 +27,6 @@ Hue is represented with an angle (0 to 360 degrees), with the following correspo
 300-360	Magenta
 
 
-Saturation indicates how much 'gray' is in the space. When 0, the color is gray and when 1.0 the color is a primary color. 
+**Saturation** indicates how much 'gray' is in the space. When 0, the color is gray and when 1.0 the color is a primary color. 
 
-Value records the brightness of color. When 0, the color is black, when 1.0, the color is white (Scale is 0-100 or 0 - 1.0).
+**Value** records the brightness of color. When 0, the color is black, when 1.0, the color is white (Scale is 0-100 or 0 - 1.0).

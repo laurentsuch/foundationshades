@@ -1,10 +1,4 @@
-Angle	Color
-0-60	Red
-60-120	Yellow
-120-180	Green
-180-240	Cyan
-240-300	Blue
-300-360	Magenta# foundationshades
+# foundationshades
 
 
 ## Purpose of this project: 

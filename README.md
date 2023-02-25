@@ -24,3 +24,6 @@ HSV stands for Hue - Saturation - Value.
 **Saturation** indicates how much 'gray' is in the space. When 0, the color is gray and when 1.0 the color is a primary color. 
 
 **Value** records the brightness of color. When 0, the color is black, when 1.0, the color is white (Scale is 0-100 or 0 - 1.0).
+
+## Data Analysis: 
+I created a dashboard using Tableau that can aid consumers in deciding which brands  have best range of shades, especially those that cater specifically towards women of color.  

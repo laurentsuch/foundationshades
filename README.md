@@ -13,12 +13,12 @@ HSV stands for Hue - Saturation - Value.
 
 **Hue** is represented with an angle (0 to 360 degrees), with the following correspondants: 
 
--0-60	Red
--60-120	Yellow
--120-180	Green
--180-240	Cyan
--240-300	Blue
--300-360	Magenta
+- 0-60	Red
+- 60-120	Yellow
+- 120-180	Green
+- 180-240	Cyan
+- 240-300	Blue
+- 300-360	Magenta
 
 
 **Saturation** indicates how much 'gray' is in the space. When 0, the color is gray and when 1.0 the color is a primary color. 

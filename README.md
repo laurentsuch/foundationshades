@@ -25,5 +25,7 @@ HSV stands for Hue - Saturation - Value.
 
 **Value** records the brightness of color. When 0, the color is black, when 1.0, the color is white (Scale is 0-100 or 0 - 1.0).
 
+**Lightness** (L) is also on a scale of 0 being black, and 100% being white. 
+
 ## Data Analysis: 
-I created a dashboard using Tableau that can aid consumers in deciding which brands  have best range of shades, especially those that cater specifically towards women of color. I also paired this project with a paper for my marketing class, in which I did a consumer and product analysis for ItCosmetics (a brand notorious for providing poor makeup shade ranges).  
+I created a dashboard using Tableau that can aid consumers in deciding which brands  have best range of shades, especially those that cater specifically towards women of color. I also paired this project with a paper for my marketing class, in which I did a consumer and product analysis for ItCosmetics (a brand notorious for providing low shade ranges).  

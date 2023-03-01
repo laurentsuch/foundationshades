@@ -5,7 +5,7 @@
 As an avid makeup consumer, I realized much of the brands I was purchasing from did not carry colors that catered towards women of color. This project hopes to shed light on the lack of foundation shades for ethnic/people of color, especially from large makeup conglomerates. 
 
 ## Description: 
-From Kaggle, I contributed and manipulated a public database of makeup (foundation) products, with their corresponding product names, brand names, hex codes (color codes), HSV values, and lightness values. Much of the color matching from swatches of makeup were appointed through CIELAB color lab to find and attribute these values to their corresponding products. With added products and changing product lines, updates to this project is much needed. I started this back in September 2022 and just now uploaded to Git and public Tableau.
+From [Kaggle] (https://www.kaggle.com/datasets/shivamb/makeup-shades-dataset), I contributed and manipulated a public database of makeup (foundation) products, with their corresponding product names, brand names, hex codes (color codes), HSV values, and lightness values. Much of the color matching from swatches of makeup were appointed through CIELAB color lab to find and attribute these values to their corresponding products. With added products and changing product lines, updates to this project is much needed. I started this back in September 2022 and just now uploaded to Git and public Tableau.
 
 ### About HSV and L values:
 

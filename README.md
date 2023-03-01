@@ -27,5 +27,10 @@ HSV stands for Hue - Saturation - Value.
 
 **Lightness** (L) is also on a scale of 0 being black, and 100% being white. 
 
+## How Values are Captured: 
+CIELAB was used to color grab a foundation shade/color through an image, giving its resulting hex code (web color), HSV, and HSL values. 
+There is a slight distinct difference between color in person and a color shown on a screen for example, but not to an extent for it to be a noticeable and great effect on the results since we pay more importance on extreme values. 
+
+
 ## Data Analysis: 
 I created a dashboard using Tableau that can aid consumers in deciding which brands  have best range of shades, especially those that cater specifically towards women of color. I also paired this project with a paper for my marketing class, in which I did a consumer and product analysis for ItCosmetics (a brand notorious for providing low shade ranges).  
